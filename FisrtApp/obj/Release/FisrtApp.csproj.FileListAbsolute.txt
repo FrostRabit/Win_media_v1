@@ -1,0 +1,15 @@
+D:\CS-project\FisrtApp\bin\Release\FisrtApp.exe.config
+D:\CS-project\FisrtApp\bin\Release\FisrtApp.exe
+D:\CS-project\FisrtApp\bin\Release\FisrtApp.pdb
+D:\CS-project\FisrtApp\bin\Release\Interop.WMPLib.dll
+D:\CS-project\FisrtApp\bin\Release\AxInterop.WMPLib.dll
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.csproj.AssemblyReference.cache
+D:\CS-project\FisrtApp\obj\Release\Interop.WMPLib.dll
+D:\CS-project\FisrtApp\obj\Release\AxInterop.WMPLib.dll
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.csproj.ResolveComReference.cache
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.Form1.resources
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.Properties.Resources.resources
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.csproj.GenerateResource.cache
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.csproj.CoreCompileInputs.cache
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.exe
+D:\CS-project\FisrtApp\obj\Release\FisrtApp.pdb
